@@ -1,7 +1,9 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { Text, View, } from 'react-native';
+
 
 function AppScreen() {
+
     return (
         <View>
             <Text>Apps</Text>
@@ -10,3 +12,6 @@ function AppScreen() {
 }
 
 export default AppScreen;
+
+
+
